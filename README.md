@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a junior data professional passionate about tu
 
 - **Cinema Data Visualization:** A project focused on data visualization of cinema statistics. It provides insights into movie trends and box office performance. [GitHub](https://github.com/moyses-olivieri/Visualizacao_de_dados_cinema)
 
-- **SQL for Horticulture Query:** A project that utilizes SQL for querying horticulture-related data. It's designed to assist in analyzing and managing horticultural data. [Github](https://github.com/moyses-olivieri/Treinamento-de-SQL)
+- **SQL for fruit market Query:** A project that utilizes SQL for querying fruit market related data. It's designed to assist in analyzing and managing fruit market data. [Github](https://github.com/moyses-olivieri/Treinamento-de-SQL)
 
 - **E-commerce Recommendation System:** A recommendation system built for e-commerce businesses to enhance customer experiences and increase sales. [Github](https://github.com/moyses-olivieri/-Sistema-de-Recomenda-o-usando-Word2Vec/blob/main/Recomenda%C3%A7%C3%A3o_usando_Word2Vec.ipynb)
 
