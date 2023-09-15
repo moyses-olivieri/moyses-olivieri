@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a junior data professional passionate about tu
 
 - **SQL for Horticulture Query:** A project that utilizes SQL for querying horticulture-related data. It's designed to assist in analyzing and managing horticultural data. [Github](https://github.com/moyses-olivieri/Treinamento-de-SQL)
 
-- **E-commerce Recommendation System:** A recommendation system built for e-commerce businesses to enhance customer experiences and increase sales. [Github](https://github.com/moyses-olivieri/-Sistema-de-Recomenda-o-usando-Word2Vec/blob/main/Recomenda%C3%A7%C3%A3o_usando_Word2Vec.ipynb))
+- **E-commerce Recommendation System:** A recommendation system built for e-commerce businesses to enhance customer experiences and increase sales. [Github](https://github.com/moyses-olivieri/-Sistema-de-Recomenda-o-usando-Word2Vec/blob/main/Recomenda%C3%A7%C3%A3o_usando_Word2Vec.ipynb)
 
 ## Always Learning
 
@@ -39,6 +39,6 @@ I'm always on the lookout to enhance my skills in data analysis and data science
 ## Get in Touch
 
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/moysesolivieri/)
-- Email: [moysesmop@gmail.com]
+- Email: moysesmop@gmail.com
 
 Feel free to reach out to discuss projects, opportunities, or simply share knowledge about data analysis and data science. I'm excited to connect with fellow enthusiasts in this field!
