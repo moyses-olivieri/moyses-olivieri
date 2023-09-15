@@ -1,4 +1,6 @@
-# Hello, I'm Moyses Olivieri - Junior Data Analyst and Data Scientist 👋
+# Hello, I'm Moyses Olivieri 👋
+
+
 
 Welcome to my GitHub profile! I'm a junior data professional passionate about turning data into insights and building models to solve complex problems. I'm constantly learning and applying new knowledge to drive data-driven decision-making.
 
